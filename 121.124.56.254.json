@@ -1,6 +1,7 @@
 {
   "IgnoreLogin": 0,
-  "StartMiningAfterMinute": 5,
+  "WaitForManagerAfterSecond": 60,
+  "StartMiningAfterMinute": 0,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 6,
