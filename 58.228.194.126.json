@@ -1,0 +1,23 @@
+{
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 60,
+  "StartMiningAfterMinute": 4,
+  "StartMiningScriptName": "StartMining.ps1",
+  "RestartComputerOnClose": 1,
+  "RestartComputerAfterHour": 6,
+  "SwitchOffMonitor": 1,
+  "SwitchOffMonitorOnMinute": 5,
+  "UseProfile": 1,
+  "ShowWindow": 1,
+  "Profiles": [
+    {
+      "PcNumber": 0,
+      "PowerLimit": 73,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    }
+  ]
+}
