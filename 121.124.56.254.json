@@ -9,6 +9,7 @@
   "SwitchOffMonitorOnMinute": 5,
   "UseProfile": 1,
   "ShowWindow": 1,
+  "ExceptNvidiaName": [],
   "Profiles": [
     {
       "PcNumber": 0,
