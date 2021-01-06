@@ -1,1 +1,24 @@
-
+{
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 0,
+  "StartMiningAfterMinute": 0,
+  "StartMiningScriptName": "StartMining.ps1",
+  "RestartComputerOnClose": 1,
+  "RestartComputerAfterHour": 6,
+  "SwitchOffMonitor": 1,
+  "SwitchOffMonitorOnMinute": 5,
+  "UseProfile": 1,
+  "ShowWindow": 1,
+  "ExceptNvidiaName": [],
+  "Profiles": [
+    {
+      "PcNumber": 0,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    }
+  ]
+}
