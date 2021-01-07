@@ -13,6 +13,276 @@
   "Profiles": [
     {
       "PcNumber": 0,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 17,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 23,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 24,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 25,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 26,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 27,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 28,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 29,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 30,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 31,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 32,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 33,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 34,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 35,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 36,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 37,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 38,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 39,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 40,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 41,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 42,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 43,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 44,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 45,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 46,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 47,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 48,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 49,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 50,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "PcNumber": 51,
       "PowerLimit": 58,
       "ThermalLimit": 65,
       "CoreClkBoost": -450000,
