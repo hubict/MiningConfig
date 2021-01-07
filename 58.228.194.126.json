@@ -13,9 +13,9 @@
   "Profiles": [
     {
       "PcNumber": 0,
-      "PowerLimit": 53,
+      "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": 0,
+      "CoreClkBoost": -500000,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
