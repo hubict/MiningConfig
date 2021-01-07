@@ -4,7 +4,7 @@
   "StartMiningAfterMinute": 0,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
-  "RestartComputerAfterHour": 20,
+  "RestartComputerAfterHour": 999,
   "SwitchOffMonitor": 1,
   "SwitchOffMonitorOnMinute": 5,
   "UseProfile": 1,
