@@ -13,7 +13,7 @@
   "Profiles": [
     {
       "PcNumber": 0,
-      "PowerLimit": 73,
+      "PowerLimit": 53,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
