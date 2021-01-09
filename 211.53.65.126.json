@@ -20,6 +20,1046 @@
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 1,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 2,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 3,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 4,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 5,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 6,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 7,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 8,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 9,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 10,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 11,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 12,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 13,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 14,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 15,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 16,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 17,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 18,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 19,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 20,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 21,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 22,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 23,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 24,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 25,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 26,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 27,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 28,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 29,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 30,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 31,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 32,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 33,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 34,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 35,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 36,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 37,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 38,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 39,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 40,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 41,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 42,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 43,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 44,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 45,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 46,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 47,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 48,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 49,
+      "PowerLimit": 51,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -421000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 50,
+      "PowerLimit": 51,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -421000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 51,
+      "PowerLimit": 51,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -421000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 52,
+      "PowerLimit": 51,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -421000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 53,
+      "PowerLimit": 51,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -421000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 54,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 55,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 56,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 57,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 58,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 59,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 60,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 61,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 62,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 63,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 64,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 65,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 66,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 67,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 68,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 69,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 70,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 71,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 72,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 73,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 74,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 75,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 76,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 77,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 78,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 79,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 80,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 81,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 82,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 83,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 84,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 85,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 86,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 87,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 88,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 89,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 90,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 91,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 92,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 93,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 94,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 95,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 96,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 97,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 98,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 99,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 100,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 101,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 102,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 103,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 104,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
     }
   ]
 }
