@@ -13,6 +13,7 @@
   "ExceptNvidiaName": [],
   "Profiles": [
     {
+      "Name": "NVIDIA GeForce RTX 2060",
       "PcNumber": 0,
       "PowerLimit": 78,
       "ThermalLimit": 65,
