@@ -1,4 +1,5 @@
 {
+  "Info": "성주동 플러스PC방",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 0,
   "StartMiningAfterMinute": 0,
@@ -15,7 +16,7 @@
       "PcNumber": 0,
       "PowerLimit": 58,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
