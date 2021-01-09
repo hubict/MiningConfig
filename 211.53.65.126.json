@@ -1,1 +1,25 @@
-
+{
+  "Info": "용호동 럭셔리PC방",
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 60,
+  "StartMiningAfterMinute": 4,
+  "StartMiningScriptName": "StartMining.ps1",
+  "RestartComputerOnClose": 1,
+  "RestartComputerAfterHour": 0,
+  "SwitchOffMonitor": 1,
+  "SwitchOffMonitorOnMinute": 5,
+  "UseProfile": 1,
+  "ShowWindow": 1,
+  "ExceptNvidiaName": [],
+  "Profiles": [
+    {
+      "PcNumber": 0,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    }
+  ]
+}
