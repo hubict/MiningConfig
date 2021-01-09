@@ -1,8 +1,8 @@
 {
   "Info": "용호동 럭셔리PC방",
   "IgnoreLogin": 0,
-  "WaitForManagerAfterSecond": 60,
-  "StartMiningAfterMinute": 4,
+  "WaitForManagerAfterSecond": 0,
+  "StartMiningAfterMinute": 0,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 0,
