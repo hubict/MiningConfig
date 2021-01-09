@@ -24,6 +24,16 @@
     },
     {
       "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 30,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
       "PcNumber": 42,
       "PowerLimit": 78,
       "ThermalLimit": 65,
