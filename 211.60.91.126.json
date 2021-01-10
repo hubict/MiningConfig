@@ -1,3 +1,27 @@
 {
-  "Info": "산호동 럭셔리PC방"
+  "Info": "산호동 럭셔리PC방",
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 60,
+  "StartMiningAfterMinute": 4,
+  "StartMiningScriptName": "StartMining.ps1",
+  "RestartComputerOnClose": 1,
+  "RestartComputerAfterHour": 0,
+  "SwitchOffMonitor": 0,
+  "SwitchOffMonitorOnMinute": 5,
+  "UseProfile": 1,
+  "ShowWindow": 1,
+  "ExceptNvidiaName": [
+  ],
+  "Profiles": [
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 0,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 600000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    }
+  ]
 }
