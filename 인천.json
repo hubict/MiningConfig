@@ -1,0 +1,28 @@
+{
+  "Info": "인천 계양구 PC방",
+  "Version": "1.1",
+  "MiningID": "baduki5852",
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 0,
+  "StartMiningAfterMinute": 0,
+  "StartMiningScriptName": "StartMining.ps1",
+  "RestartComputerOnClose": 1,
+  "RestartComputerAfterHour": 1,
+  "SwitchOffMonitor": 1,
+  "SwitchOffMonitorOnMinute": 5,
+  "UseProfile": 1,
+  "ShowWindow": 1,
+  "ExceptNvidiaName": [],
+  "ExceptPcNumber": [],
+  "Profiles": [
+    {
+      "PcNumber": 0,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    }
+  ]
+}
