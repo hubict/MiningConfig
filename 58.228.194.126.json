@@ -12,6 +12,7 @@
   "ExceptNvidiaName": [],
   "Profiles": [
     {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 0,
       "PowerLimit": 60,
       "ThermalLimit": 65,
