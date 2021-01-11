@@ -1,5 +1,6 @@
 {
   "Info": "성주동 플러스PC방",
+  "Version": "1.1",
   "MiningID": "baduki5852",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 0,
@@ -16,15 +17,6 @@
     {
       "PcNumber": 0,
       "PowerLimit": 58,
-      "ThermalLimit": 65,
-      "CoreClkBoost": 0,
-      "MemClkBoost": 800000,
-      "FanMode": 1,
-      "FanSpeed": 25
-    },
-    {
-      "PcNumber": 65,
-      "PowerLimit": 68,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
