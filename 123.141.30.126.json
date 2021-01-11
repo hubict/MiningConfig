@@ -50,8 +50,8 @@
       "PcNumber": 46,
       "PowerLimit": 58,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
-      "MemClkBoost": 800000,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
       "FanMode": 1,
       "FanSpeed": 25
     },
