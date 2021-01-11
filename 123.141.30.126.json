@@ -1,1 +1,29 @@
-
+{
+  "Info": "함안 ZAD PC방",
+  "Version": "1.1",
+  "MiningID": "baduki5852",
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 0,
+  "StartMiningAfterMinute": 0,
+  "StartMiningScriptName": "StartMining.ps1",
+  "RestartComputerOnClose": 1,
+  "RestartComputerAfterHour": 1,
+  "SwitchOffMonitor": 1,
+  "SwitchOffMonitorOnMinute": 5,
+  "UseProfile": 1,
+  "ShowWindow": 1,
+  "ExceptNvidiaName": [],
+  "ExceptPcNumber": [],
+  "Profiles": [
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 0,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    }
+  ]
+}
