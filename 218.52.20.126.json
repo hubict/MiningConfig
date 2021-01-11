@@ -24,6 +24,206 @@
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 26,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 27,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 28,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 29,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 30,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 31,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 32,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 33,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 34,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 35,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 36,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 37,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 38,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 39,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 40,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 41,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 42,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 43,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 58,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080 SUPER",
+      "PcNumber": 60,
+      "PowerLimit": 60,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -500000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
     }
   ]
 }
