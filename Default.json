@@ -8,7 +8,7 @@
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 1,
-  "SwitchOffMonitor": 1,
+  "SwitchOffMonitor": 0,
   "SwitchOffMonitorOnMinute": 5,
   "UseProfile": 1,
   "ShowWindow": 1,
