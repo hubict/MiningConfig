@@ -18,7 +18,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 0,
-      "PowerLimit": 60,
+      "PowerLimit": 78,
       "ThermalLimit": 65,
       "CoreClkBoost": -500000,
       "MemClkBoost": 800000,
