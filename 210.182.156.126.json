@@ -13,6 +13,7 @@
   "UseProfile": 1,
   "ShowWindow": 1,
   "ExceptNvidiaName": [],
+  "ExceptPcNumber": [],
   "Profiles": [
     {
       "PcNumber": 0,
