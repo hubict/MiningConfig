@@ -24,6 +24,66 @@
       "MemClkBoost": 700000,
       "FanMode": 1,
       "FanSpeed": 25
-    }
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 46,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 47,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 46,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 48,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 49,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
+      "PcNumber": 50,
+      "PowerLimit": 58,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
   ]
 }
