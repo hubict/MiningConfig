@@ -30,7 +30,7 @@
       "PcNumber": 26,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -40,7 +40,7 @@
       "PcNumber": 27,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -50,7 +50,7 @@
       "PcNumber": 28,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -80,7 +80,7 @@
       "PcNumber": 31,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -90,7 +90,7 @@
       "PcNumber": 32,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -100,7 +100,7 @@
       "PcNumber": 33,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -120,7 +120,7 @@
       "PcNumber": 35,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -130,7 +130,7 @@
       "PcNumber": 36,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -140,7 +140,7 @@
       "PcNumber": 37,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -150,7 +150,7 @@
       "PcNumber": 38,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -160,7 +160,7 @@
       "PcNumber": 39,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -170,7 +170,7 @@
       "PcNumber": 40,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -180,7 +180,7 @@
       "PcNumber": 41,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -190,7 +190,7 @@
       "PcNumber": 42,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -200,7 +200,7 @@
       "PcNumber": 43,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
@@ -220,7 +220,7 @@
       "PcNumber": 60,
       "PowerLimit": 60,
       "ThermalLimit": 65,
-      "CoreClkBoost": -500000,
+      "CoreClkBoost": 0,
       "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
