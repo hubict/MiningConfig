@@ -53,6 +53,12 @@ Set-Content -Path $burnerCfgPath -Value $contentCfg -Force -Encoding Ascii
 Write-Host "Start MSI Afterburner" 
 Start-Process -FilePath "MSIAfterburner.exe" -WorkingDirectory $(Join-Path -Path $(Get-ScriptDirectory) -ChildPath "MSI Afterburner")
 
+# Start OhGodAnETHlargementPill
+if($vga.Name.Contains(1080))
+{
+    Start-Process -FilePath "OhGodAnETHlargementPill.exe" -WorkingDirectory $(Join-Path -Path $(Get-ScriptDirectory) -ChildPath "OhGodAnETHlargementPill-master")
+}
+
 # Start Mining\PhoenixMiner_5.4c_Windows
 $contetnPhoenix = @"
 setx GPU_FORCE_64BIT_PTR 0
