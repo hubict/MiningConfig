@@ -18,10 +18,10 @@
     {
       "Name": "NVIDIA GeForce GTX 1080",
       "PcNumber": 0,
-      "PowerLimit": 65,
-      "ThermalLimit": 80,
+      "PowerLimit": 70,
+      "ThermalLimit": 65,
       "CoreClkBoost": 0,
-      "MemClkBoost": 504000,
+      "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
     },
