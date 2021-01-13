@@ -1,10 +1,10 @@
 {
   "Info": "창원대 OX PC방",
   "Version": "1.1",
-  "MiningID": "baduki5852",
+  "MiningID": "alsdl3613",
   "IgnoreLogin": 0,
-  "WaitForManagerAfterSecond": 0,
-  "StartMiningAfterMinute": 0,
+  "WaitForManagerAfterSecond": 60,
+  "StartMiningAfterMinute": 3,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 0,
