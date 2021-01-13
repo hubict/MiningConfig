@@ -28,7 +28,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 61,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
@@ -38,7 +38,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 62,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
@@ -48,7 +48,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 63,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
@@ -58,7 +58,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 64,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
@@ -68,7 +68,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 65,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
@@ -78,7 +78,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 66,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
@@ -88,7 +88,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 67,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
@@ -98,7 +98,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 68,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
@@ -108,7 +108,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2080 SUPER",
       "PcNumber": 69,
-      "PowerLimit": 42,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 800000,
