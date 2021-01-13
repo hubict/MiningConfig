@@ -16,11 +16,12 @@
   "ExceptPcNumber": [],
   "Profiles": [
     {
+      "Name": "NVIDIA GeForce GTX 1660",
       "PcNumber": 0,
-      "PowerLimit": 78,
+      "PowerLimit": 53,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
-      "MemClkBoost": 700000,
+      "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
     }
