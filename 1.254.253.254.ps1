@@ -19,8 +19,8 @@ Import-Module -Name $modulePath
 $LogFile = Enable-LogFile -Path $(Join-Path -Path $(Get-ScriptDirectory) -ChildPath "logs\StartMining.txt")
 Write-Host "Import Module: $modulePath" 
 
-Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ArgumentList "restore" -Wait -ErrorAction SilentlyContinue
-Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ErrorAction SilentlyContinue
+Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "Z:\forePatchGuest" -ArgumentList "restore" -Wait -ErrorAction SilentlyContinue
+Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "Z:\forePatchGuest" -ErrorAction SilentlyContinue
 
 # Close Pica
 Stop-Process -Name pmclient -Force -ErrorAction SilentlyContinue
