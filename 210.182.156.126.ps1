@@ -19,6 +19,10 @@ Import-Module -Name $modulePath
 $LogFile = Enable-LogFile -Path $(Join-Path -Path $(Get-ScriptDirectory) -ChildPath "logs\StartMining.txt")
 Write-Host "Import Module: $modulePath" 
 
+Stop-Process -Name explorer -Force -ErrorAction SilentlyContinue
+Stop-Process -Name foreLauncher -Force -ErrorAction SilentlyContinue
+Stop-Process -Name explorer -ErrorAction SilentlyContinue
+
 Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ArgumentList "restore" -Wait -ErrorAction SilentlyContinue
 Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ErrorAction SilentlyContinue
 
