@@ -1,6 +1,6 @@
 {
   "Info": "PC방",
-  "Version": "1.1",
+  "Version": "1.2",
   "MiningID": "baduki5852",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 60,
@@ -14,6 +14,7 @@
   "ShowWindow": 1,
   "ExceptNvidiaName": [],
   "ExceptPcNumber": [],
+  "ScheduleForePatchOnHour": 0,
   "Profiles": [
     {
       "PcNumber": 0,
