@@ -14,6 +14,7 @@
   "ShowWindow": 1,
   "ExceptNvidiaName": [],
   "ExceptPcNumber": [],
+  "ScheduleForePatchOnHour": 1,
   "Profiles": [
     {
       "PcNumber": 0,
