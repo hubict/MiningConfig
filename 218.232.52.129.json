@@ -11,7 +11,7 @@
   "SwitchOffMonitor": 0,
   "SwitchOffMonitorOnMinute": 5,
   "UseProfile": 1,
-  "ShowWindow": 1,
+  "ShowWindow": 0,
   "ExceptNvidiaName": [],
   "ExceptPcNumber": [],
   "Profiles": [
