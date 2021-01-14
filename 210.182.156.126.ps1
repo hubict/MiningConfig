@@ -23,8 +23,8 @@ Stop-Process -Name explorer -Force -ErrorAction SilentlyContinue
 Stop-Process -Name foreLauncher -Force -ErrorAction SilentlyContinue
 Stop-Process -Name explorer -ErrorAction SilentlyContinue
 
-Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ArgumentList "restore" -Wait -ErrorAction SilentlyContinue
-Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ErrorAction SilentlyContinue
+Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "S:\forePatchGuest" -ArgumentList "restore" -Wait -ErrorAction SilentlyContinue
+Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "S:\forePatchGuest" -ErrorAction SilentlyContinue
 
 # Close Pica
 Stop-Process -Name pmclient -Force -ErrorAction SilentlyContinue
