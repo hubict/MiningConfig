@@ -1,0 +1,28 @@
+{
+  "Info": "합성동 타이탄 PC방",
+  "Version": "1.1",
+  "MiningID": "baduki5852",
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 0,
+  "StartMiningAfterMinute": 0,
+  "StartMiningScriptName": "StartMining.ps1",
+  "RestartComputerOnClose": 1,
+  "RestartComputerAfterHour": 0,
+  "SwitchOffMonitor": 0,
+  "SwitchOffMonitorOnMinute": 5,
+  "UseProfile": 1,
+  "ShowWindow": 1,
+  "ExceptNvidiaName": [],
+  "ExceptPcNumber": [],
+  "Profiles": [
+    {
+      "PcNumber": 0,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    }
+  ]
+}
