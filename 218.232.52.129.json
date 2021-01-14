@@ -4,7 +4,7 @@
   "MiningID": "onestar0941",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 60,
-  "StartMiningAfterMinute": 30,
+  "StartMiningAfterMinute": 3,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 0,
