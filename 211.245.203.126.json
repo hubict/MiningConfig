@@ -1,15 +1,19 @@
 {
+  "Info": "삼계 넥스트 PC방",
+  "Version": "1.1",
+  "MiningID": "kimsuranext",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 60,
-  "StartMiningAfterMinute": 4,
+  "StartMiningAfterMinute": 3,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
-  "RestartComputerAfterHour": 999,
+  "RestartComputerAfterHour": 0,
   "SwitchOffMonitor": 0,
   "SwitchOffMonitorOnMinute": 5,
   "UseProfile": 1,
   "ShowWindow": 1,
   "ExceptNvidiaName": [],
+  "ExceptPcNumber": [],
   "Profiles": [
     {
       "PcNumber": 0,
