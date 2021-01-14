@@ -1,6 +1,6 @@
 {
   "Info": "삼계 골리앗 PC방",
-  "Version": "1.1",
+  "Version": "1.2",
   "MiningID": "wnstj7771",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 60,
@@ -14,6 +14,7 @@
   "ShowWindow": 1,
   "ExceptNvidiaName": [],
   "ExceptPcNumber": [],
+  "ScheduleForePatchOnHour": 1,
   "Profiles": [
     {
       "PcNumber": 0,
