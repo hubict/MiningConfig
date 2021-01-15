@@ -1,7 +1,7 @@
 {
   "Info": "용원 엠탐 PC방",
   "Version": "1.2",
-  "MiningID": "baduki5852",
+  "MiningID": "srdy4501",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 60,
   "StartMiningAfterMinute": 3,
@@ -17,6 +17,7 @@
   "ScheduleForePatchOnHour": 0,
   "Profiles": [
     {
+      "Name": "NVIDIA GeForce RTX 2070 SUPER",
       "PcNumber": 0,
       "PowerLimit": 78,
       "ThermalLimit": 65,
