@@ -19,7 +19,7 @@
     {
       "Name": "NVIDIA GeForce RTX 2070 SUPER",
       "PcNumber": 0,
-      "PowerLimit": 78,
+      "PowerLimit": 58,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 700000,
