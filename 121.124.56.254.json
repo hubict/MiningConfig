@@ -17,7 +17,7 @@
   "ScheduleForePatchOnHour": 1,
   "Profiles": [
     {
-      "Name": "NVIDIA GeForce RTX 2080",
+      "Name": "NVIDIA GeForce RTX 2060",
       "PcNumber": 0,
       "PowerLimit": 73,
       "ThermalLimit": 65,
