@@ -28,46 +28,6 @@
     },
     {
       "Name": "NVIDIA GeForce RTX 2070",
-      "PcNumber": 3,
-      "PowerLimit": 71,
-      "ThermalLimit": 65,
-      "CoreClkBoost": 0,
-      "MemClkBoost": 900000,
-      "FanMode": 0,
-      "FanSpeed": 100
-    },
-    {
-      "Name": "NVIDIA GeForce RTX 2070",
-      "PcNumber": 4,
-      "PowerLimit": 71,
-      "ThermalLimit": 65,
-      "CoreClkBoost": 0,
-      "MemClkBoost": 900000,
-      "FanMode": 0,
-      "FanSpeed": 100
-    },
-    {
-      "Name": "NVIDIA GeForce RTX 2070",
-      "PcNumber": 9,
-      "PowerLimit": 71,
-      "ThermalLimit": 65,
-      "CoreClkBoost": 0,
-      "MemClkBoost": 900000,
-      "FanMode": 0,
-      "FanSpeed": 100
-    },
-    {
-      "Name": "NVIDIA GeForce RTX 2070",
-      "PcNumber": 12,
-      "PowerLimit": 71,
-      "ThermalLimit": 65,
-      "CoreClkBoost": 0,
-      "MemClkBoost": 900000,
-      "FanMode": 0,
-      "FanSpeed": 100
-    },
-{
-      "Name": "NVIDIA GeForce RTX 2070",
       "PcNumber": 1,
       "PowerLimit": 71,
       "ThermalLimit": 65,
