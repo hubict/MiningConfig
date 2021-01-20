@@ -2,7 +2,7 @@
   "Info": "부산 OX PC방",
   "Version": "1.2",
   "MiningID": "wsh824",
-  "IgnoreLogin": 0,
+  "IgnoreLogin": 1,
   "WaitForManagerAfterSecond": 0,
   "StartMiningAfterMinute": 0,
   "StartMiningScriptName": "StartMining.ps1",
