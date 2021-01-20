@@ -2,7 +2,7 @@
   "Info": "부산 더몽 PC방",
   "Version": "1.2",
   "MiningID": "baduki5852",
-  "IgnoreLogin": 0,
+  "IgnoreLogin": 1,
   "WaitForManagerAfterSecond": 0,
   "StartMiningAfterMinute": 0,
   "StartMiningScriptName": "StartMining.ps1",
