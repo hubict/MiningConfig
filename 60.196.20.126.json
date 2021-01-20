@@ -1,0 +1,30 @@
+{
+  "Info": "부산 PC토랑2",
+  "Version": "1.2",
+  "MiningID": "baduki5852",
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 0,
+  "StartMiningAfterMinute": 0,
+  "StartMiningScriptName": "StartMining.ps1",
+  "RestartComputerOnClose": 1,
+  "RestartComputerAfterHour": 0,
+  "SwitchOffMonitor": 1,
+  "SwitchOffMonitorOnMinute": 5,
+  "UseProfile": 1,
+  "ShowWindow": 1,
+  "ExceptNvidiaName": [],
+  "ExceptPcNumber": [],
+  "ScheduleForePatchOnHour": 0,
+  "Profiles": [
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": 0,
+      "PowerLimit": 78,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    }
+  ]
+}
