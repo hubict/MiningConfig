@@ -1,8 +1,8 @@
 {
   "Info": "부산 PC토랑2",
   "Version": "1.2",
-  "MiningID": "baduki5852",
-  "IgnoreLogin": 0,
+  "MiningID": "zzwoqglfk",
+  "IgnoreLogin": 1,
   "WaitForManagerAfterSecond": 0,
   "StartMiningAfterMinute": 0,
   "StartMiningScriptName": "StartMining.ps1",
