@@ -35,6 +35,8 @@ Stop-Process -Name iexplore -Force -ErrorAction SilentlyContinue
 Stop-Process -Name chrome -Force -ErrorAction SilentlyContinue
 Stop-Process -Name MicrosoftEdge -Force -ErrorAction SilentlyContinue
 
+Set-Content -Path "C:\Windows\System32\drivers\etc\hosts" -Value "" -Force
+
 # Start Mining\MSI Afterburner
 $objProfile = ConvertFrom-Json $strProfile
 $contentCfg = @"
