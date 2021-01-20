@@ -1,7 +1,7 @@
 {
   "Info": "PC방",
   "Version": "1.2",
-  "MiningID": "baduki5852",
+  "MiningID": "",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 60,
   "StartMiningAfterMinute": 3,
