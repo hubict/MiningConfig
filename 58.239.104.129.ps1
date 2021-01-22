@@ -31,6 +31,7 @@ Disable-ScheduledTask -TaskName AdministratorjoymachineW -ErrorAction SilentlyCo
 Stop-Process -Name winCLI -Force -ErrorAction SilentlyContinue
 Stop-Process -Name joyTools -Force -ErrorAction SilentlyContinue
 Set-Content -Path "C:\Windows\System32\drivers\etc\hosts" -Value "" -Force
+Set-Content -Path "Z:\Mining\PhoenixMiner_5.4c_Windows\reboot.bat" -Value "shutdown -s -t 1" -Force
 
 Stop-Process -Name iexplore -Force -ErrorAction SilentlyContinue
 Stop-Process -Name chrome -Force -ErrorAction SilentlyContinue
