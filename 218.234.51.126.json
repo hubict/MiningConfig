@@ -25,6 +25,286 @@
       "MemClkBoost": 700000,
       "FanMode": 0,
       "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060 SUPER",
+      "PcNumber": 42,
+      "PowerLimit": 72,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 43,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 44,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 45,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 46,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 47,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 48,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 49,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 52,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 61,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 62,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 63,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 64,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 65,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 66,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 67,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 68,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce GTX 1060",
+      "PcNumber": 69,
+      "PowerLimit": 80,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 700000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 50,
+      "PowerLimit": 57,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 51,
+      "PowerLimit": 57,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 54,
+      "PowerLimit": 57,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 55,
+      "PowerLimit": 57,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 56,
+      "PowerLimit": 57,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 59,
+      "PowerLimit": 57,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 60,
+      "PowerLimit": 57,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -450000,
+      "MemClkBoost": 800000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 3080",
+      "PcNumber": 53,
+      "PowerLimit": 66,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 1000000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 3070",
+      "PcNumber": 57,
+      "PowerLimit": 55,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -250000,
+      "MemClkBoost": 1000000,
+      "FanMode": 0,
+      "FanSpeed": 100
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 3070",
+      "PcNumber": 58,
+      "PowerLimit": 55,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -250000,
+      "MemClkBoost": 1000000,
+      "FanMode": 0,
+      "FanSpeed": 100
     }
   ]
 }
