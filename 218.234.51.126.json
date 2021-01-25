@@ -17,14 +17,14 @@
   "ScheduleForePatchOnHour": 0,
   "Profiles": [
     {
-      "Name": "NVIDIA GeForce RTX 2060",
+      "Name": "NVIDIA GeForce GTX 1080",
       "PcNumber": 0,
-      "PowerLimit": 78,
-      "ThermalLimit": 65,
+      "PowerLimit": 83,
+      "ThermalLimit": 60,
       "CoreClkBoost": 0,
       "MemClkBoost": 700000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "FanMode": 0,
+      "FanSpeed": 100
     }
   ]
 }
