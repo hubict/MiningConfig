@@ -3,7 +3,7 @@
   "Version": "1.2",
   "MiningID": "sky456654",
   "IgnoreLogin": 0,
-  "WaitForManagerAfterSecond": 30,
+  "WaitForManagerAfterSecond": 60,
   "StartMiningAfterMinute": 3,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
