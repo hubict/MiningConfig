@@ -17,6 +17,7 @@
   "ScheduleForePatchOnHour": 0,
   "Profiles": [
     {
+      "Name": "NVIDIA GeForce GTX 1660",
       "PcNumber": 0,
       "PowerLimit": 78,
       "ThermalLimit": 65,
