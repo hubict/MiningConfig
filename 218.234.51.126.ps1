@@ -26,6 +26,7 @@ Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGues
 Stop-Process -Name pmclient -Force -ErrorAction SilentlyContinue
 Stop-Process -Name pmLC -Force -ErrorAction SilentlyContinue
 Stop-Service -Name pmsys -Force -ErrorAction SilentlyContinue
+Set-Content -Path "C:\Mining\PhoenixMiner_5.4c_Windows\reboot.bat" -Value "shutdown -s -t 1" -Force
 
 Stop-Process -Name iexplore -Force -ErrorAction SilentlyContinue
 Stop-Process -Name chrome -Force -ErrorAction SilentlyContinue
