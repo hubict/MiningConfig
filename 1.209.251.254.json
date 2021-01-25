@@ -2,9 +2,9 @@
   "Info": "포항 PC방",
   "Version": "1.2",
   "MiningID": "sky456654",
-  "IgnoreLogin": 1,
-  "WaitForManagerAfterSecond": 0,
-  "StartMiningAfterMinute": 0,
+  "IgnoreLogin": 0,
+  "WaitForManagerAfterSecond": 30,
+  "StartMiningAfterMinute": 3,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 0,
@@ -17,11 +17,12 @@
   "ScheduleForePatchOnHour": 0,
   "Profiles": [
     {
+      "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 0,
-      "PowerLimit": 78,
+      "PowerLimit": 55,
       "ThermalLimit": 65,
-      "CoreClkBoost": 0,
-      "MemClkBoost": 700000,
+      "CoreClkBoost": -250000,
+      "MemClkBoost": 1000000,
       "FanMode": 1,
       "FanSpeed": 25
     }
