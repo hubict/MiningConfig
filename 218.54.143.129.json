@@ -17,11 +17,72 @@
   "ScheduleForePatchOnHour": 0,
   "Profiles": [
     {
+      "Name": "NVIDIA GeForce RTX 1660",
       "PcNumber": 0,
+      "PowerLimit": 53,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2060",
+      "PcNumber": -29,
       "PowerLimit": 78,
       "ThermalLimit": 65,
       "CoreClkBoost": 0,
       "MemClkBoost": 700000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 81,
+      "PowerLimit": 55,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 82,
+      "PowerLimit": 55,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 83,
+      "PowerLimit": 55,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 84,
+      "PowerLimit": 55,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
+      "FanMode": 1,
+      "FanSpeed": 25
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 2080",
+      "PcNumber": 85,
+      "PowerLimit": 55,
+      "ThermalLimit": 65,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 800000,
       "FanMode": 1,
       "FanSpeed": 25
     }
