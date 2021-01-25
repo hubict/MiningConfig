@@ -239,312 +239,312 @@
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 22,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 23,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 24,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 25,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 26,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 27,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 28,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 29,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 30,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 31,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 32,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 33,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 34,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 35,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 36,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 37,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 91,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 92,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 93,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 94,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 95,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 96,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 97,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 98,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 99,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 100,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 101,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 102,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 103,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 104,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 105,
-      "PowerLimit": 46,
+      "PowerLimit": 50,
       "ThermalLimit": 65,
-      "CoreClkBoost": -450000,
+      "CoreClkBoost": -250000,
       "MemClkBoost": 1100000,
-      "FanMode": 0,
-      "FanSpeed": 100
+      "FanMode": 1,
+      "FanSpeed": 25
     }
   ]
 }
