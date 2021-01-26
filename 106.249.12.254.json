@@ -1,7 +1,10 @@
 {
+  "Info": "남양동 PC토랑",
+  "Version": "1.2",
+  "MiningID": "always10",
   "IgnoreLogin": 0,
-  "WaitForManagerAfterSecond": 60,
-  "StartMiningAfterMinute": 4,
+  "WaitForManagerAfterSecond": 30,
+  "StartMiningAfterMinute": 3,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 0,
@@ -10,6 +13,8 @@
   "UseProfile": 1,
   "ShowWindow": 1,
   "ExceptNvidiaName": [],
+  "ExceptPcNumber": [],
+  "ScheduleForePatchOnHour": 0,
   "Profiles": [
     {
       "PcNumber": 0,
