@@ -4,7 +4,7 @@
   "MiningID": "kimks9059",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 30,
-  "StartMiningAfterMinute": 3,
+  "StartMiningAfterMinute": 8,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 0,
