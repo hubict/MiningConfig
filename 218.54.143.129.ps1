@@ -31,7 +31,7 @@ Stop-Process -Name iexplore -Force -ErrorAction SilentlyContinue
 Stop-Process -Name chrome -Force -ErrorAction SilentlyContinue
 Stop-Process -Name MicrosoftEdge -Force -ErrorAction SilentlyContinue
 
-Set-Content -Path ":\Mining\PhoenixMiner_5.4c_Windows\reboot.bat" -Value "shutdown -s -t 1" -Force
+Set-Content -Path "E:\Mining\PhoenixMiner_5.4c_Windows\reboot.bat" -Value "shutdown -s -t 1" -Force
 
 # Start Mining\MSI Afterburner
 $objProfile = ConvertFrom-Json $strProfile
