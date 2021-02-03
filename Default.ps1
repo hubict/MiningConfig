@@ -23,7 +23,7 @@ Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGues
 Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ErrorAction SilentlyContinue
 
 # Close Geto
-ScheduledTasks\Disable-ScheduledTask -TaskName WMCLTS -ErrorAction SilentlyContinue
+Disable-ScheduledTask -TaskName WMCLTS -ErrorAction SilentlyContinue
 Stop-Process -Name WmClt -Force -ErrorAction SilentlyContinue
 Stop-Process -Name WmCltSvc -Force -ErrorAction SilentlyContinue
 Stop-Service -Name WMCLTSVC -Force -ErrorAction SilentlyContinue
@@ -37,8 +37,8 @@ Stop-Service -Name pmsys -Force -ErrorAction SilentlyContinue
 Set-Service -Name JoyMachineService -StartupType Disabled  -ErrorAction SilentlyContinue
 Stop-Service -Name JoyMachineService -Force -ErrorAction SilentlyContinue
 Stop-Process -Name WindowsJoyMachineService -Force -ErrorAction SilentlyContinue
-ScheduledTasks\Disable-ScheduledTask -TaskName *joymachineW -ErrorAction SilentlyContinue
-ScheduledTasks\Disable-ScheduledTask -TaskName AdministratorjoymachineW -ErrorAction SilentlyContinue
+Disable-ScheduledTask -TaskName *joymachineW -ErrorAction SilentlyContinue
+Disable-ScheduledTask -TaskName AdministratorjoymachineW -ErrorAction SilentlyContinue
 Stop-Process -Name winCLI -Force -ErrorAction SilentlyContinue
 Stop-Process -Name joyTools -Force -ErrorAction SilentlyContinue
 Set-Content -Path "C:\Windows\System32\drivers\etc\hosts" -Value "" -Force
