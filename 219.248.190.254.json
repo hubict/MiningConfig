@@ -4,7 +4,7 @@
   "MiningID": "ohyes98",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 60,
-  "StartMiningAfterMinute": 2,
+  "StartMiningAfterMinute": 1,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 0,
@@ -13,7 +13,7 @@
   "UseProfile": 1,
   "ShowWindow": 1,
   "ExceptNvidiaName": [],
-  "ExceptPcNumber": [9],
+  "ExceptPcNumber": [],
   "Profiles": [
     {
       "Name": "NVIDIA GeForce RTX 2060 SUPER",
