@@ -4,7 +4,7 @@
   "MiningID": "ohyes98",
   "IgnoreLogin": 0,
   "WaitForManagerAfterSecond": 60,
-  "StartMiningAfterMinute": 1,
+  "StartMiningAfterMinute": 2,
   "StartMiningScriptName": "StartMining.ps1",
   "RestartComputerOnClose": 1,
   "RestartComputerAfterHour": 0,
