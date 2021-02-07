@@ -614,7 +614,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -624,7 +624,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -634,7 +634,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -644,7 +644,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -654,7 +654,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -664,7 +664,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -674,7 +674,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -684,7 +684,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -694,7 +694,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -704,7 +704,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -714,7 +714,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -724,7 +724,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
@@ -734,7 +734,7 @@
       "CoreClkBoost": 0,
       "MemClkBoost": 1050000,
       "FanMode": 0,
-      "FanSpeed": 100
+      "FanSpeed": 88
     }
   ]
 }
