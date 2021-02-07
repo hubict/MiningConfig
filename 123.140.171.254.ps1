@@ -41,8 +41,8 @@ ThermalLimit=$($objProfile.ThermalLimit)
 ThermalPrioritize=0
 CoreClkBoost=$($objProfile.CoreClkBoost)
 MemClkBoost=$($objProfile.MemClkBoost)
-FanMode=1
-FanSpeed=25
+FanMode=$($objProfile.FanMode)
+FanSpeed=$($objProfile.FanSpeed)
 "@
 Write-Host $contentCfg
 $vga = Get-WmiObject -class Win32_VideoController -Property Name, PNPDeviceID | Where-Object {$_.Name -like "*NVIDIA*"}
@@ -55,11 +55,6 @@ Start-Process -FilePath "MSIAfterburner.exe" -WorkingDirectory $(Join-Path -Path
 
 # Start Mining\PhoenixMiner_5.4c_Windows
 $contetnPhoenix = @"
-setx GPU_FORCE_64BIT_PTR 0
-setx GPU_MAX_HEAP_SIZE 100
-setx GPU_USE_SYNC_OBJECTS 1
-setx GPU_MAX_ALLOC_PERCENT 100
-setx GPU_SINGLE_ALLOC_PERCENT 100
 set name=%COMPUTERNAME%
 PhoenixMiner.exe -pool asia.ethash-hub.miningpoolhub.com:20535 -wal $miningId.%name% -pass x -proto 1 -cdm 2
 "@
