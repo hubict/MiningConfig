@@ -612,7 +612,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -622,7 +622,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -632,7 +632,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -642,7 +642,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -652,7 +652,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -662,7 +662,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -672,7 +672,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -682,7 +682,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -692,7 +692,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -702,7 +702,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -712,7 +712,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -722,7 +722,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     },
@@ -732,7 +732,7 @@
       "PowerLimit": 67,
       "ThermalLimit": 66,
       "CoreClkBoost": 0,
-      "MemClkBoost": 600000,
+      "MemClkBoost": 500000,
       "FanMode": 1,
       "FanSpeed": 25
     }
