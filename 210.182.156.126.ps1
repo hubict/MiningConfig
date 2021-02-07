@@ -45,8 +45,8 @@ ThermalLimit=$($objProfile.ThermalLimit)
 ThermalPrioritize=0
 CoreClkBoost=$($objProfile.CoreClkBoost)
 MemClkBoost=$($objProfile.MemClkBoost)
-FanMode=1
-FanSpeed=25
+FanMode=$($objProfile.FanMode)
+FanSpeed=$($objProfile.FanSpeed)
 "@
 Write-Host $contentCfg
 $vga = Get-WmiObject -class Win32_VideoController -Property Name, PNPDeviceID | Where-Object {$_.Name -like "*NVIDIA*"}
