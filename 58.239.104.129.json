@@ -317,22 +317,22 @@
       "FanSpeed": 88
     },
     {
-      "Name": "NVIDIA GeForce RTX 3080",
+      "Name": "NVIDIA GeForce RTX 3070",
       "PcNumber": 84,
-      "PowerLimit": 75,
-      "ThermalLimit": 77,
-      "CoreClkBoost": 0,
-      "MemClkBoost": 1050000,
-      "FanMode": 0,
-      "FanSpeed": 88
+      "PowerLimit": 55,
+      "ThermalLimit": 65,
+      "CoreClkBoost": -250000,
+      "MemClkBoost": 900000,
+      "FanMode": 1,
+      "FanSpeed": 25
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 85,
-      "PowerLimit": 75,
-      "ThermalLimit": 77,
+      "PowerLimit": 67,
+      "ThermalLimit": 75,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1050000,
+      "MemClkBoost": 900000,
       "FanMode": 0,
       "FanSpeed": 88
     },
