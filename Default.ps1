@@ -49,6 +49,51 @@ Stop-Process -Name iexplore -Force -ErrorAction SilentlyContinue
 Stop-Process -Name chrome -Force -ErrorAction SilentlyContinue
 Stop-Process -Name MicrosoftEdge -Force -ErrorAction SilentlyContinue
 
+# forePatchGuest
+if($null -ne (Get-Process -Name forePatchGuest -ErrorAction SilentlyContinue))
+{
+  $TimerForePatch = New-Object -TypeName Timers.Timer
+  $TimerForePatch.Interval = 60 * 60000
+  Register-ObjectEvent -InputObject $TimerForePatch -EventName Elapsed `
+    –SourceIdentifier TimerForePatch -Action { 
+      $forePatchGuest = Get-Process -Name forePatchGuest -ErrorAction SilentlyContinue
+      if($null -ne $forePatchGuest)
+      {
+        $forePath = $forePatchGuest.Path
+        Start-Process -FilePath $forePath -ArgumentList "restore" -Wait -ErrorAction SilentlyContinue
+        Start-Process -FilePath $forePath -ErrorAction SilentlyContinue
+      }
+    }
+  $TimerForePatch.Start()
+}
+
+# remove Keyboard
+$DevconPath = Join-Path -Path (Get-ScriptDirectory) -ChildPath "devcon.exe"
+if(-not (Test-Path $DevconPath))
+{
+  Invoke-WebRequest "http://mining.pclucas.com/util/devcon.exe" -OutFile $DevconPath
+}
+Start-Process -FilePath $DevconPath -ArgumentList "remove =keyboard"
+
+# timer RestartLowSpeed
+$TimerRestartLowSpeed = New-Object -TypeName Timers.Timer
+$TimerRestartLowSpeed.Interval = 3 * 60000
+Register-ObjectEvent -InputObject $TimerRestartLowSpeed -EventName Elapsed `
+  –SourceIdentifier TimerRestartLowSpeed -Action { 
+    $Response = "127.0.0.1:3333" | Connect-TcpHost | Put-TcpHost -query '{"id":0,"jsonrpc":"2.0","method":"miner_getstat1"}' | Read-TcpHost | Disconnect-TcpHost
+    $Query = ConvertFrom-Json $Response.Query.Data[1]
+    $RunningTime = [int]$Query.result[1]
+    $MiningSpeed = [int]$Query.result[3]
+    Write-Host "마이닝실행시간(분): $RunningTime, 마이닝속도: $MiningSpeed, 마이닝ID: $($Users[$CurrentIndex % $Users.Count].ID)"
+    if(($RunningTime -gt 1) -and ($MiningSpeed -le 1000))
+    {
+        $workingDir = Join-Path -Path (Get-ScriptDirectory) -ChildPath "PhoenixMiner_5.4c_Windows"
+        Write-Host "재실행: $workingDir\start.bat"
+        Start-Process -FilePath "start.bat" -WorkingDirectory $workingDir
+    }
+  }
+$TimerRestartLowSpeed.Start()
+
 # Start Mining\MSI Afterburner
 $objProfile = ConvertFrom-Json $strProfile
 $contentCfg = @"
