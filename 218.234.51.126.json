@@ -117,6 +117,16 @@
       "FanSpeed": 100
     },
     {
+      "Name": "NVIDIA GeForce RTX 3080",
+      "PcNumber": 53,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
+      "CoreClkBoost": 0,
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
+    },
+    {
       "Name": "NVIDIA GeForce GTX 1060",
       "PcNumber": 61,
       "PowerLimit": 100,
