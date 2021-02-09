@@ -219,32 +219,32 @@
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 60,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 61,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 62,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 2070",
@@ -289,12 +289,12 @@
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 67,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 2070",
@@ -319,62 +319,62 @@
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 71,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 72,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 73,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 74,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 75,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 76,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
-      "FanMode": 1,
-      "FanSpeed": 25
+      "MemClkBoost": 1050000,
+      "FanMode": 0,
+      "FanSpeed": 88
     },
     {
       "Name": "NVIDIA GeForce RTX 2060",
