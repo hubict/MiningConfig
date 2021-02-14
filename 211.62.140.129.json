@@ -72,7 +72,7 @@
       "PowerLimit": 75,
       "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 850000,
+      "MemClkBoost": 800000,
       "FanMode": 0,
       "FanSpeed": 88
     },
