@@ -69,10 +69,10 @@
     {
       "Name": "NVIDIA GeForce RTX 3080",
       "PcNumber": 46,
-      "PowerLimit": 66,
-      "ThermalLimit": 65,
+      "PowerLimit": 75,
+      "ThermalLimit": 77,
       "CoreClkBoost": 0,
-      "MemClkBoost": 1000000,
+      "MemClkBoost": 850000,
       "FanMode": 0,
       "FanSpeed": 88
     },
