@@ -23,7 +23,7 @@ Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGues
 Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ErrorAction SilentlyContinue
 
 # Close Geto
-Get-ScheduledTask -TaskName WMCLTS -ErrorAction SilentlyContinue | Disable-ScheduledTask | Stop-ScheduledTask
+Disable-ScheduledTask -TaskName WMCLTS -ErrorAction SilentlyContinue
 Stop-Service -Name WMCLTSVC -Force -ErrorAction SilentlyContinue
 Stop-Process -Name WmClt* -Force -ErrorAction SilentlyContinue
 
