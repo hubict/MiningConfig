@@ -23,10 +23,9 @@ Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGues
 Start-Process -FilePath "forePatchGuest.exe" -WorkingDirectory "C:\forePatchGuest" -ErrorAction SilentlyContinue
 
 # Close Geto
-Disable-ScheduledTask -TaskName WMCLTS -ErrorAction SilentlyContinue
-Stop-Process -Name WmClt -Force -ErrorAction SilentlyContinue
-Stop-Process -Name WmCltSvc -Force -ErrorAction SilentlyContinue
+Get-ScheduledTask -TaskName WMCLTS -ErrorAction SilentlyContinue | Disable-ScheduledTask | Stop-ScheduledTask
 Stop-Service -Name WMCLTSVC -Force -ErrorAction SilentlyContinue
+Stop-Process -Name WmClt* -Force -ErrorAction SilentlyContinue
 
 # Close Pica
 Stop-Process -Name pmclient -Force -ErrorAction SilentlyContinue
