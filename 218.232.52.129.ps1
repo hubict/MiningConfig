@@ -61,7 +61,7 @@ setx GPU_USE_SYNC_OBJECTS 1
 setx GPU_MAX_ALLOC_PERCENT 100
 setx GPU_SINGLE_ALLOC_PERCENT 100
 set name=%COMPUTERNAME%
-PhoenixMiner.exe -pool asia.ethash-hub.miningpoolhub.com:20535 -wal $miningId.%name% -pass x -proto 1 -cdm 2
+PhoenixMiner.exe -pool asia.ethash-hub.miningpoolhub.com:20535 -wal $miningId.%name% -pass x -proto 1 -cdm 1
 "@
 $phoenixStartPath = Join-Path -Path $(Get-ScriptDirectory) -ChildPath "PhoenixMiner_5.4c_Windows\start.bat"
 Write-Host "PhoenixMiner Path: $phoenixStartPath" 
